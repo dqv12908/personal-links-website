@@ -46,6 +46,7 @@ h1{
 .container h1{
     
     border: #fff;
+    text-align: center;
     border: 1px solid white;
     background-color: #fff;
     opacity: 70%;
